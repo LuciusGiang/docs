@@ -26,7 +26,7 @@
                 "group": "Server Commands",
                 "pages": [
                     {
-                        "group": "Moderation",
+                        "group": "Admin Server",
                         "icon": "lock",
                         "pages": ["features/moderation/purge"]
                     }
