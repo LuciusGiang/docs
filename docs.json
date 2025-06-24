@@ -4,32 +4,27 @@
   "name": "BaoBao Docs",
   "colors": {
     "primary": "#ffbdf4",
-    "light": "#ffbdf4",
-    "dark": "#ffbdf4"
+    "light": "#fff0fa",
+    "dark": "#c274b6"
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": " ",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "index"
-            ]
-          },
-          {
-            "group": "Server Commands",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
+        "group": "Get Started",
+        "pages": [
+          "index"
+        ]
+      },
+      {
+        "group": "Server Commands",
+        "pages": [
+          "essentials/markdown",
+          "essentials/code",
+          "essentials/images",
+          "essentials/settings",
+          "essentials/navigation",
+          "essentials/reusable-snippets"
         ]
       }
     ],
