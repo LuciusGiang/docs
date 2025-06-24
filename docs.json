@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "BaoBao Docs",
   "colors": {
     "primary": "#ffbdf4",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#ffbdf4",
+    "dark": "#ffbdf4"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -16,9 +16,7 @@
           {
             "group": "Get Started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           },
           {
