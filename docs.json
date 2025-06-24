@@ -23,43 +23,20 @@
                 ]
             },
             {
-                "group": "Server Configuration",
-                "pages": [
-                    "config/responders",
-                    {
-                        "group": "Giveaways",
-                        "icon": "party-horn",
-                        "pages": ["config/giveaway/managment", "config/giveaway/configuration", "config/giveaway/presets"]
-                    },
-
-                    {
-                        "group": "Guild",
-                        "icon": "house",
-                        "pages": ["config/guild/pingonjoin", "config/guild/dmonjoin"]
-                    }
-                ]
-            },
-            {
                 "group": "Server Commands",
                 "pages": [
                     {
                         "group": "Moderation",
                         "icon": "lock",
-                        "pages": ["features/moderation/purge", "features/moderation/massban"]
-                    },
-                    "features/afk",
-                    "features/timediff",
-                    "features/channels",
-                    "features/downloader"
+                        "pages": ["features/moderation/purge"]
+                    }
                 ]
             },
             {
                 "group": "Resources",
                 "pages": [
                     "resources/message_id",
-                    "resources/syntax",
-                    "resources/variables",
-                    "resources/embed_layout"
+                    "resources/syntax"
                 ]
             }
         ]
