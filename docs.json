@@ -1,8 +1,8 @@
 {
     "$schema": "https://mintlify.com/docs.json",
     "theme": "mint",
-    "name": "baobun docs",
-    "description": "documentation for baobun",
+    "name": "baobao docs",
+    "description": "documentation for baobao",
     "colors": {
         "primary": "#e57a9e",
         "light": "#f7c0d0",
@@ -11,7 +11,7 @@
     "seo": {
         "metatags": {
             "theme-color": "#e3c2cd",
-            "og:site_name": "baobun.dev"
+            "og:site_name": "baobao.dev"
         }
     },
     "navigation": {
