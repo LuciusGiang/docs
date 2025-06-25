@@ -25,6 +25,7 @@
             {
                 "group": "Server Commands",
                 "pages": [
+                    "giveaway",
                     {
                         "group": "Admin Server",
                         "icon": "lock",
