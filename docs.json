@@ -3,7 +3,6 @@
     "theme": "mint",
     "name": "baobao docs",
     "description": "documentation for baobao",
-    "favicon": "favicon.png",
     "colors": {
         "primary": "#e57a9e",
         "light": "#f7c0d0",
